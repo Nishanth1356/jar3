@@ -5,6 +5,6 @@ package google;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hell rn");
+        System.out.println("Hel rn");
     }
 }
